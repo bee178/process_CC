@@ -1,5 +1,5 @@
 # Cyclomatic Complexity: Extraction + Process
-This analysis is part of [CSE3000 - TU Delft Research Project][https://github.com/TU-Delft-CSE/Research-Project] of 2024/25.
+This analysis is part of [CSE3000 - TU Delft Research Project](https://github.com/TU-Delft-CSE/Research-Project) of 2024/25.
 
 Scripts used to extract and calculate cyclomatic complexity of student software projects, they can be used as follows.
 
